@@ -1,7 +1,7 @@
 {
   "name": "talha-react-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://talhahashmi.github.com/talha_react_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
