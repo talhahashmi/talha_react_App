@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Talha Hashmi
+          Learn React with Talha !!!
         </a>
       </header>
     </div>
